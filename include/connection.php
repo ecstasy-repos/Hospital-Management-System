@@ -1,7 +1,7 @@
 <?php
 	$servername="localhost";
 	$username="root";
-	$password="parma2018";
+	$password="password";
 	$database="hms";
 	$connect =new mysqli($servername,$username,$password,$database);
 ?>
